@@ -1,0 +1,6 @@
+/.pytest_cache
+/__pycache__
+/output.png
+/test
+/test.png
+/test.svg
